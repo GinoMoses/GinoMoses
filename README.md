@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damian!</h1>
+<h1 align="center">Hi 👋, I'm Damian, also know as Gino or Moses!</h1>
 <h3 align="center">A hobbyist developer!</h3>
 
 - 🌱 I’m currently learning **TypeScript, React, Rust**
