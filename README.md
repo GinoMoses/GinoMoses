@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React, Rust**
 
-- 📫 How to reach me **damian.gorol78@gmail.com**
+- 📫 How to reach me **damiangorolbusiness@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
